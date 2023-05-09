@@ -7,6 +7,7 @@ Examples:
 
 */
 function doubleValues(arr){
+arr = 2;
     
 }
 
